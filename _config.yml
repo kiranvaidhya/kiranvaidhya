@@ -17,8 +17,8 @@ url: "http://kiranvaidhya.com" # the base hostname & protocol for your site, e.g
 baseurl: "" # the subpath of your site, e.g. "/blog".  WARNING: if you are not using a custom domain, the baseurl *must* be set to your repo name.
 
 # Email and twitter are optional:
-email: 
-twitter_username: "fastdotai"
+email: kiranvaidhya93@gmail.com
+twitter_username: "kiranvaidhya93"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
