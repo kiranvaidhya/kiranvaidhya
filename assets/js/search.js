@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://kiranvaidhya.com/about/",
     "title": "About Me",
-    "body": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
+    "body": " I’m a Ph. D. candidate at at the Diagnostic Image Analysis Group in Radboudumc in Nijmegen, The Netherlands. I’m working on lung nodule characterization under the supervision of Prof. Dr. Bram van Ginneken and Dr. Colin Jacobs. My areas of interest revolve around deep learning, medical image analysis and art. "
     }, {
     "id": 2,
     "url": "http://kiranvaidhya.com/categories/",
