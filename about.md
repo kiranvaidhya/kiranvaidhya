@@ -3,11 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+![](images/Kiran_Venkadesh_raw-01.jpeg)
+I'm a Ph.D. candidate at at the Diagnostic Image Analysis Group in Radboudumc in Nijmegen, The Netherlands. I'm working on lung nodule characterization under the supervision of Prof. Dr. Bram van Ginneken and Dr. Colin Jacobs. My areas of interest revolve around deep learning, medical image analysis and art.
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
