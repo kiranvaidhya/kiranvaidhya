@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "http://kiranvaidhya.com/2020/02/25/first-post.html",
     "title": "First Post",
-    "body": "2020/02/25 - The stars would be so proud their atoms created someone like you Blogging is an excellent way to communicate scientific activities to the curious public. Advances in web development has made it easy for researchers to integrate word documents in GitHub and host them on their websites. Medical Image Analysis I’m passionate about deep learning and its applications for healthcare. I have taken an interest in lung nodule analysis from chest CT scans. The marriage of big data and machine learning has led to significant breakthroughs in lung nodule analysis. Cats!  "
+    "body": "2020/02/25 - Blogging is an excellent way to communicate scientific activities to the curious public. Advances in web development has made it easy for researchers to integrate word documents in GitHub and host them on their websites. Considering this is my first blog, I humbly request the reader to spare my rookie mistakes. Medical Image Analysis I’m passionate about deep learning and its applications for healthcare. I have taken an interest in lung nodule analysis from chest CT scans. The marriage of big data and machine learning has led to significant breakthroughs in lung nodule analysis. Cats! I love felines. I have two cats in India, both domestic shorthairs. They’re named Long Sock and Short Sock, respectively. You can navigate to their Instagram handle to find more about their lives. I hope to raise big wild cats, like a mountain lion, someday. :3  I will continue updating this post to make it more professional. "
     }, {
     "id": 5,
     "url": "http://kiranvaidhya.com/fastpages/jupyter/2020/02/20/test.html",
