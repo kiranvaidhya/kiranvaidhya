@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://kiranvaidhya.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kiranvaidhya.com/" rel="alternate" type="text/html" /><updated>2020-03-03T05:07:39-06:00</updated><id>http://kiranvaidhya.com/feed.xml</id><title type="html">Kiran Vaidhya</title><subtitle>Ph.D. candidate at DIAG, Radboudumc.</subtitle><entry><title type="html">Bengio vs Marcus AI debate</title><link href="http://kiranvaidhya.com/deep-learning/ai/robustness/2020/03/01/bengio-vs-marcus-AI-debate.html" rel="alternate" type="text/html" title="Bengio vs Marcus AI debate" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>http://kiranvaidhya.com/deep-learning/ai/robustness/2020/03/01/bengio-vs-marcus-AI-debate</id><content type="html" xml:base="http://kiranvaidhya.com/deep-learning/ai/robustness/2020/03/01/bengio-vs-marcus-AI-debate.html">&lt;p&gt;The war between connectionism and symbolism has regained traction following some of the rather conspicuous failures of the current deep learning system used in practice. Gary Marcus authored the popular science non-fiction book, &lt;a href=&quot;https://www.amazon.com/Rebooting-AI-Building-Artificial-Intelligence-ebook/dp/B07MYLGQLB&quot;&gt;Rebooting AI&lt;/a&gt; to highlight the drawbacks of deep learning systems and to promote the Symbolic AI program. Ranging from the errors seen in &lt;a href=&quot;https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber&quot;&gt;self-driving cars&lt;/a&gt; to &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0022202X18322930&quot;&gt;skin cancer diagnosis&lt;/a&gt;, deep learning systems have consistently showcased their brittle nature. However, it is important to not forget the significant advances in machine learning triggered by the development of training procedures for neural networks using C/CUDA on GPUs. Hand-crafted features have been replaced by deep neural networks in virtually every domain you can think of. The 2010s has been one of the most successful decades for Artificial Intelligence.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://kiranvaidhya.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kiranvaidhya.com/" rel="alternate" type="text/html" /><updated>2020-03-04T07:08:37-06:00</updated><id>http://kiranvaidhya.com/feed.xml</id><title type="html">Kiran Vaidhya</title><subtitle>Ph.D. candidate at DIAG, Radboudumc.</subtitle><entry><title type="html">Bengio vs Marcus AI debate</title><link href="http://kiranvaidhya.com/deep-learning/ai/robustness/2020/03/01/bengio-vs-marcus-AI-debate.html" rel="alternate" type="text/html" title="Bengio vs Marcus AI debate" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>http://kiranvaidhya.com/deep-learning/ai/robustness/2020/03/01/bengio-vs-marcus-AI-debate</id><content type="html" xml:base="http://kiranvaidhya.com/deep-learning/ai/robustness/2020/03/01/bengio-vs-marcus-AI-debate.html">&lt;p&gt;The war between connectionism and symbolism has regained traction following some of the rather conspicuous failures of the current deep learning system used in practice. Gary Marcus authored the popular science non-fiction book, &lt;a href=&quot;https://www.amazon.com/Rebooting-AI-Building-Artificial-Intelligence-ebook/dp/B07MYLGQLB&quot;&gt;Rebooting AI&lt;/a&gt; to highlight the drawbacks of deep learning systems and to promote the Symbolic AI program. Ranging from the errors seen in &lt;a href=&quot;https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber&quot;&gt;self-driving cars&lt;/a&gt; to &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0022202X18322930&quot;&gt;skin cancer diagnosis&lt;/a&gt;, deep learning systems have consistently showcased their brittle nature. However, it is important to not forget the significant advances in machine learning triggered by the development of training procedures for neural networks using C/CUDA on GPUs. Hand-crafted features have been replaced by deep neural networks in virtually every domain you can think of. The 2010s has been one of the most successful decades for Artificial Intelligence.&lt;/p&gt;
 
 &lt;h2 id=&quot;connectionism-vs-symbolism&quot;&gt;Connectionism vs Symbolism&lt;/h2&gt;
 
@@ -32,19 +32,7 @@
 
 &lt;p&gt;Should we slow down the research and ground the progress on first principles? Yes. Current implementations of backpropagation for fast training are not deterministic. Should we regulate AI products in the market and dial down on extravagant claims? Yes. Should we put more resources into a completely different paradigm? I’m not so sure.&lt;/p&gt;
 
-&lt;p&gt;Gary Marcus probably has the best interests in terms of scientific research and development but it’s hard to make sense of his proposed alternatives. At the time of this writing, Marcus has published some papers about the drawbacks of deep learning systems. I’m not particularly aware of any of his peer-reviewed publications on Symbolic AI that’s gained sufficient traction at top conferences or journals. He is the CEO of &lt;a href=&quot;robust.ai&quot;&gt;Robust AI&lt;/a&gt; but it needs more than a startup and writing popular science books to drive the field forward in a different direction. It needs collaborations with major institutions and companies. If Gary Marcus really believes in the Symbolic AI program, I would kindly recommend him to fund research projects in collaboration with the MITs, Stanfords and MILAs and publish top quality peer-reviewed papers on Symbolic AI to steer the field in the appropriate directions.&lt;/p&gt;</content><author><name></name></author><summary type="html">The war between connectionism and symbolism has regained traction following some of the rather conspicuous failures of the current deep learning system used in practice. Gary Marcus authored the popular science non-fiction book, Rebooting AI to highlight the drawbacks of deep learning systems and to promote the Symbolic AI program. Ranging from the errors seen in self-driving cars to skin cancer diagnosis, deep learning systems have consistently showcased their brittle nature. However, it is important to not forget the significant advances in machine learning triggered by the development of training procedures for neural networks using C/CUDA on GPUs. Hand-crafted features have been replaced by deep neural networks in virtually every domain you can think of. The 2010s has been one of the most successful decades for Artificial Intelligence.</summary></entry><entry><title type="html">First Post</title><link href="http://kiranvaidhya.com/2020/02/25/first-post.html" rel="alternate" type="text/html" title="First Post" /><published>2020-02-25T00:00:00-06:00</published><updated>2020-02-25T00:00:00-06:00</updated><id>http://kiranvaidhya.com/2020/02/25/first-post</id><content type="html" xml:base="http://kiranvaidhya.com/2020/02/25/first-post.html">&lt;p&gt;Blogging is an excellent way to communicate scientific activities to the curious public. Advances in web development has made it easy for researchers to integrate word documents in GitHub and host them on their websites. Considering this is my first blog, I humbly request the reader to spare my rookie mistakes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Medical Image Analysis&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m passionate about deep learning and its applications for healthcare. I have taken an interest in lung nodule analysis from chest CT scans. The marriage of big data and machine learning has led to significant breakthroughs in lung nodule analysis.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cats!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I love felines. I have two cats in India, both domestic shorthairs. They’re named Long Sock and Short Sock, respectively. You can navigate to their &lt;a href=&quot;https://www.instagram.com/thelongshortsocks/&quot;&gt;Instagram handle&lt;/a&gt; to find more about their lives. I hope to raise big wild cats, like a mountain lion, someday. :3&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kiranvaidhya.com/assets/img/2020-02-25-first-post/media/image1.jpeg&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;http://kiranvaidhya.com/assets/img/2020-02-25-first-post/media/image2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I will continue updating this post to make it more professional.&lt;/p&gt;</content><author><name></name></author><summary type="html">Blogging is an excellent way to communicate scientific activities to the curious public. Advances in web development has made it easy for researchers to integrate word documents in GitHub and host them on their websites. Considering this is my first blog, I humbly request the reader to spare my rookie mistakes.</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="http://kiranvaidhya.com/fastpages/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>http://kiranvaidhya.com/fastpages/jupyter/2020/02/20/test</id><content type="html" xml:base="http://kiranvaidhya.com/fastpages/jupyter/2020/02/20/test.html">&lt;!--
+&lt;p&gt;Gary Marcus probably has the best interests in terms of scientific research and development but it’s hard to make sense of his proposed alternatives. At the time of this writing, Marcus has published some papers about the drawbacks of deep learning systems. I’m not particularly aware of any of his peer-reviewed publications on Symbolic AI that’s gained sufficient traction at top conferences or journals. He is the CEO of &lt;a href=&quot;robust.ai&quot;&gt;Robust AI&lt;/a&gt; but it needs more than a startup and writing popular science books to drive the field forward in a different direction. It needs collaborations with major institutions and companies. If Gary Marcus really believes in the Symbolic AI program, I would kindly recommend him to fund research projects in collaboration with the MITs, Stanfords and MILAs and publish top quality peer-reviewed papers on Symbolic AI to steer the field in the appropriate directions.&lt;/p&gt;</content><author><name></name></author><summary type="html">The war between connectionism and symbolism has regained traction following some of the rather conspicuous failures of the current deep learning system used in practice. Gary Marcus authored the popular science non-fiction book, Rebooting AI to highlight the drawbacks of deep learning systems and to promote the Symbolic AI program. Ranging from the errors seen in self-driving cars to skin cancer diagnosis, deep learning systems have consistently showcased their brittle nature. However, it is important to not forget the significant advances in machine learning triggered by the development of training procedures for neural networks using C/CUDA on GPUs. Hand-crafted features have been replaced by deep neural networks in virtually every domain you can think of. The 2010s has been one of the most successful decades for Artificial Intelligence.</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="http://kiranvaidhya.com/fastpages/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>http://kiranvaidhya.com/fastpages/jupyter/2020/02/20/test</id><content type="html" xml:base="http://kiranvaidhya.com/fastpages/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -703,106 +691,4 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://kiranvaidhya.com/images/chart-preview.png" /><media:content medium="image" url="http://kiranvaidhya.com/images/chart-preview.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Markdown Post</title><link href="http://kiranvaidhya.com/fastpages/markdown/2020/01/14/test-markdown-post.html" rel="alternate" type="text/html" title="Example Markdown Post" /><published>2020-01-14T00:00:00-06:00</published><updated>2020-01-14T00:00:00-06:00</updated><id>http://kiranvaidhya.com/fastpages/markdown/2020/01/14/test-markdown-post</id><content type="html" xml:base="http://kiranvaidhya.com/fastpages/markdown/2020/01/14/test-markdown-post.html">&lt;h2 id=&quot;basic-setup&quot;&gt;Basic setup&lt;/h2&gt;
-
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-filename.md&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;filename&lt;/code&gt; is whatever file name you choose, to remind yourself what this post is about. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.md&lt;/code&gt; is the file extension for markdown files.&lt;/p&gt;
-
-&lt;p&gt;The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “&lt;em&gt;level 1 heading&lt;/em&gt;” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;## File names&lt;/code&gt; above.&lt;/p&gt;
-
-&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
-
-&lt;p&gt;You can use &lt;em&gt;italics&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code font text&lt;/code&gt;, and create &lt;a href=&quot;https://www.markdownguide.org/cheat-sheet/&quot;&gt;links&lt;/a&gt;. Here’s a footnote &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Here’s a horizontal rule:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
-
-&lt;p&gt;Here’s a list:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;item 1&lt;/li&gt;
-  &lt;li&gt;item 2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And a numbered list:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;item 1&lt;/li&gt;
-  &lt;li&gt;item 2&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;boxes-and-stuff&quot;&gt;Boxes and stuff&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a quotation&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;Toast Toast--warning googoo&quot;&gt;
-   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-alert&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&quot; /&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;You can include alert boxes&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;p&gt;…and…&lt;/p&gt;
-
-&lt;div class=&quot;Toast&quot;&gt;
-   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot; /&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;You can include info boxes&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
-
-&lt;p&gt;General preformatted text:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Do a thing
-do_thing()
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Python code and output:&lt;/p&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Prints '2'
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Column 1&lt;/th&gt;
-      &lt;th&gt;Column 2&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;A thing&lt;/td&gt;
-      &lt;td&gt;Another thing&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;tweetcards&quot;&gt;Tweetcards&lt;/h2&gt;
-
-&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Altair 4.0 is released! &lt;a href=&quot;https://t.co/PCyrIOTcvv&quot;&gt;https://t.co/PCyrIOTcvv&lt;/a&gt;&lt;br /&gt;Try it with:&lt;br /&gt;&lt;br /&gt;  pip install -U altair&lt;br /&gt;&lt;br /&gt;The full list of changes is at &lt;a href=&quot;https://t.co/roXmzcsT58&quot;&gt;https://t.co/roXmzcsT58&lt;/a&gt; ...read on for some highlights. &lt;a href=&quot;https://t.co/vWJ0ZveKbZ&quot;&gt;pic.twitter.com/vWJ0ZveKbZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jake VanderPlas (@jakevdp) &lt;a href=&quot;https://twitter.com/jakevdp/status/1204765621767901185?ref_src=twsrc%5Etfw&quot;&gt;December 11, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;This is the footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Basic setup</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://kiranvaidhya.com/images/chart-preview.png" /><media:content medium="image" url="http://kiranvaidhya.com/images/chart-preview.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
