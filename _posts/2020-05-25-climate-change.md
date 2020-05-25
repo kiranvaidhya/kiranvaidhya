@@ -1,3 +1,9 @@
+---
+toc: true
+description: Climate change
+categories: [life, climate change]
+---
+
 # It's climate change we should be worried about, not AI
 
 The 2019-2020 transition was remarkable for the amount of chaos we witnessed. We saw the Australian fires, a passenger plane being shot down by Iranian military and the beginning of the deadly COVID-19.
