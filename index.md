@@ -11,8 +11,14 @@ search: exclude
 # Research
 
 ### Lung
-- [Deep Learning for Lung Cancer Detection](https://www.intel.ai/solutions/prediblehealth-whitepaper/)
+
+#### Diagnostic Image Analysis Group, Radboudumc
+Lung cancer screening is being rolled out worldwide. [Aberle et al](https://www.nature.com/articles/s41571-019-0231-3?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nrclinonc%2Frss%2Fcurrent+%28Nature+Reviews+Clinical+Oncology+-+Issue%29&post_id=noID) reiterate the efficacy of screening high risk population with low-dose CT scans for lung cancer. My research interests revolve around early lung cancer detection on low-dose chest CT scans with an emphasis on temporal analysis using medical image analysis techniques.
+
+#### Predible Health
+- [Deep Learning for Lung Cancer Detection](https://simplecore.intel.com/ai/wp-content/uploads/sites/69/PredibleHealth_DeepLearningForLungCancerDetection_WP.pdf)
 - [Unboxing AI-Radiological Insights Into a Deep Neural Network for Lung Nodule Characterization](https://www.ncbi.nlm.nih.gov/pubmed/31623996)
+- [An Automated Workflow for Lung Nodule Follow-Up Recommendation Using Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-50516-5_32)
 - [Opening the "Black Box": radiological insights into a deep neural network for lung nodule](https://event.crowdcompass.com/ecr19/activity/877mEGBPNO)
 - Takeaways from the validation of an AI-based malignancy likelihood estimation for lung cancer screening when used on routine CT studies in a tertiary care hospital
 
