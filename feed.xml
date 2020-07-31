@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://kiranvaidhya.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kiranvaidhya.com/" rel="alternate" type="text/html" /><updated>2020-07-26T05:16:49-05:00</updated><id>http://kiranvaidhya.com/feed.xml</id><title type="html">Kiran Vaidhya</title><subtitle>Ph.D. candidate at DIAG, Radboudumc.</subtitle><entry><title type="html">Life in a pandemic</title><link href="http://kiranvaidhya.com/life/pandemic/2020/03/20/life-during-pandemic.html" rel="alternate" type="text/html" title="Life in a pandemic" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>http://kiranvaidhya.com/life/pandemic/2020/03/20/life-during-pandemic</id><content type="html" xml:base="http://kiranvaidhya.com/life/pandemic/2020/03/20/life-during-pandemic.html">&lt;p&gt;It has been a terrible few days since &lt;a href=&quot;https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020&quot;&gt;WHO officially classified COVID-19 as a pandemic&lt;/a&gt;. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://kiranvaidhya.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kiranvaidhya.com/" rel="alternate" type="text/html" /><updated>2020-07-31T18:03:04-05:00</updated><id>http://kiranvaidhya.com/feed.xml</id><title type="html">Kiran Vaidhya</title><subtitle>Ph.D. candidate at DIAG, Radboudumc.</subtitle><entry><title type="html">Life in a pandemic</title><link href="http://kiranvaidhya.com/life/pandemic/2020/03/20/life-during-pandemic.html" rel="alternate" type="text/html" title="Life in a pandemic" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>http://kiranvaidhya.com/life/pandemic/2020/03/20/life-during-pandemic</id><content type="html" xml:base="http://kiranvaidhya.com/life/pandemic/2020/03/20/life-during-pandemic.html">&lt;p&gt;It has been a terrible few days since &lt;a href=&quot;https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020&quot;&gt;WHO officially classified COVID-19 as a pandemic&lt;/a&gt;. 
 I have no idea how I survived the onslaught of panic. Fear is contagious, even more so than the actual virus.
 I had to deactivate my Twitter account and delete the app from my phone to stop myself from scrolling over toxic newsfeeds.
 That’s the downside of having your Twitter newsfeed optimized towards a scientific community. 
@@ -115,8 +115,7 @@ Nevertheless, I sincerely wish China shares its data with European countries to 
 
 &lt;div class=&quot;inner_cell&quot;&gt;
     &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#collapse&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pd&lt;/span&gt;
+&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pd&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;altair&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;alt&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -125,6 +124,27 @@ Nevertheless, I sincerely wish China shares its data with European countries to 
 &lt;/div&gt;
 &lt;/p&gt;
     &lt;/details&gt;
+&lt;div class=&quot;output_wrapper&quot;&gt;
+&lt;div class=&quot;output&quot;&gt;
+
+&lt;div class=&quot;output_area&quot;&gt;
+
+&lt;div class=&quot;output_subarea output_text output_error&quot;&gt;
+&lt;pre&gt;
+&lt;span class=&quot;ansi-red-fg&quot;&gt;---------------------------------------------------------------------------&lt;/span&gt;
+&lt;span class=&quot;ansi-red-fg&quot;&gt;ModuleNotFoundError&lt;/span&gt;                       Traceback (most recent call last)
+&lt;span class=&quot;ansi-green-fg&quot;&gt;&amp;lt;ipython-input-2-46a097cb566e&amp;gt;&lt;/span&gt; in &lt;span class=&quot;ansi-cyan-fg&quot;&gt;&amp;lt;module&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;ansi-green-intense-fg ansi-bold&quot;&gt;      1&lt;/span&gt; &lt;span class=&quot;ansi-red-fg&quot;&gt;#collapse&lt;/span&gt;
+&lt;span class=&quot;ansi-green-fg&quot;&gt;----&amp;gt; 2&lt;/span&gt;&lt;span class=&quot;ansi-red-fg&quot;&gt; &lt;/span&gt;&lt;span class=&quot;ansi-green-fg&quot;&gt;import&lt;/span&gt; pandas &lt;span class=&quot;ansi-green-fg&quot;&gt;as&lt;/span&gt; pd
+&lt;span class=&quot;ansi-green-intense-fg ansi-bold&quot;&gt;      3&lt;/span&gt; &lt;span class=&quot;ansi-green-fg&quot;&gt;import&lt;/span&gt; altair &lt;span class=&quot;ansi-green-fg&quot;&gt;as&lt;/span&gt; alt
+
+&lt;span class=&quot;ansi-red-fg&quot;&gt;ModuleNotFoundError&lt;/span&gt;: No module named &amp;#39;pandas&amp;#39;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
 &lt;/div&gt;
     
 
@@ -144,8 +164,7 @@ Nevertheless, I sincerely wish China shares its data with European countries to 
 
 &lt;div class=&quot;inner_cell&quot;&gt;
     &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#collapse_show&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;cars&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/cars.json&amp;#39;&lt;/span&gt;
+&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cars&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/cars.json&amp;#39;&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/movies.json&amp;#39;&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;sp500&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/sp500.csv&amp;#39;&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;stocks&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/stocks.csv&amp;#39;&lt;/span&gt;
@@ -180,8 +199,7 @@ Nevertheless, I sincerely wish China shares its data with European countries to 
 
 &lt;div class=&quot;inner_cell&quot;&gt;
     &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# single-value selection over [Major_Genre, MPAA_Rating] pairs&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;# use specific hard-wired values as the initial selected values&lt;/span&gt;
+&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# use specific hard-wired values as the initial selected values&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;selection&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;selection_single&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Select&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;fields&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Major_Genre&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;MPAA_Rating&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
@@ -374,8 +392,7 @@ Nevertheless, I sincerely wish China shares its data with European countries to 
 
 &lt;div class=&quot;inner_cell&quot;&gt;
     &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# select a point for which to provide details-on-demand&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;label&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;selection_single&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;label&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;selection_single&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;encodings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;x&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# limit selection to x-axis value&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;mouseover&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# select on mouseover events&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;nearest&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;# select data point nearest the cursor&lt;/span&gt;
