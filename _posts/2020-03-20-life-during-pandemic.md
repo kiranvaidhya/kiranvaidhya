@@ -25,5 +25,7 @@ Nevertheless, I sincerely wish China shares its data with European countries to 
 
 If things go well, I'd expect Europe to recover from the pandemic in the next 3-4 months. Fingers crossed.
 
+# Update 01-08-2020
 
+Europe has partially recovered from the pandemic, and travel has been restored within the EU. There is evidence of a second wave but the expectation is that with the health systems being more prepared now, COVID-19 will ripple out until a vaccine is found. 
 

@@ -1,7 +1,15 @@
 ---
-toc: true
-description: Experiments with Astrophotography
+title: "Experiments with Astrophotography"
+description: "Longing for a relationship with the night sky"
+layout: post
+toc: false
+comments: true
+image: images/comet-neowise.jpg
+hide: false
+search_exclude: true
 categories: [astrophotography, astronomy]
+metadata_key1: metadata_value1
+metadata_key2: metadata_value2
 ---
 
 The summer of 2020 has been bittersweet. In spite of the continuing ramifications of COVID-19, the night sky managed to put on a show for a lifetime, uniting people under these very stressful times.
