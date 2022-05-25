@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi there 🌞, I'm Kiran Vaidhya</h1>
+<h1 align="center">Hi there👋, I'm Kiran Vaidhya🌞</h1>
 
 
 I'm a PhD candidate at a Dutch hospital called **[Radboudumc](https://www.radboudumc.nl)**. I work in the **[Diagnostic Image Analysis Group](https://www.diagnijmegen.nl)**, and my research interests revolve around the use of deep learning algorithms for _medical image analysis_. I'm supervised by [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/), and [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/).
