@@ -40,4 +40,4 @@ Before starting by PhD, I worked at **[Predible](https://predible.com)** for thr
 - Demo: `streamlit`
 
 Development
-🐋 Docker
+- 🐋 Docker
