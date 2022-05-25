@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi there👋, I'm Kiran Vaidhya</h1>
+<h1 align="center">Hi there 🌞, I'm Kiran Vaidhya</h1>
 
 
-I'm a PhD candidate at a Dutch hospital called **[Radboudumc](https://www.radboudumc.nl)**. I work in the **[Diagnostic Image Analysis Group](https://www.diagnijmegen.nl)**, and my research interests revolve around the use of deep learning algorithms for lung cancer screening. In the past, I have prototyped and built production-ready deep learning algorithms for wrist x-rays, chest CTs, and abdomen CT analysis. 
+I'm a PhD candidate at a Dutch hospital called **[Radboudumc](https://www.radboudumc.nl)**. I work in the **[Diagnostic Image Analysis Group](https://www.diagnijmegen.nl)**, and my research interests revolve around the use of deep learning algorithms for _medical image analysis_. I'm supervised by [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/), and [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/).
+
+My PhD thesis is on AI for lung cancer screening. As part of my thesis, I develop and validate deep learning algorithms to estimate malignancy risk of lung nodules from chest CT images. The results of my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433) showed that deep learning algorithms are comparable to expert clinicians at predicting lung cancer risk (which was also covered by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)** 😊). I will be exploring ways to automate lung cancer screening with deep learning algorithms for the next couple of years. 
+
+Before starting by PhD, I worked at **[Predible](https://predible.com)** for three years, and I prototyped and built production-ready deep learning algorithms for wrist x-ray, chest CT, and abdomen CT analysis. 
 
 ## 🔗 Let's Connect!
 <a href="https://twitter.com/kiranvaidhya93" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
