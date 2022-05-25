@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there👋, I'm Kiran Vaidhya</h1>
 
 
-I'm a PhD candidate at a Dutch hospital called [Radboudumc](https://www.radboudumc.nl). I work in the [Diagnostic Image Analysis Group](https://www.diagnijmegen.nl), and my research interests revolve around the use of deep learning algorithms for lung cancer screening. In the past, I have prototyped and built production-ready deep learning algorithms for 🤚wrist x-ray images, 🫁thorax, and abdomen CT analysis. 
+I'm a PhD candidate at a Dutch hospital called **[Radboudumc](https://www.radboudumc.nl)**. I work in the **[Diagnostic Image Analysis Group](https://www.diagnijmegen.nl)**, and my research interests revolve around the use of deep learning algorithms for lung cancer screening. In the past, I have prototyped and built production-ready deep learning algorithms for wrist x-rays, chest CTs, and abdomen CT analysis. 
 
 ## 🔗 Let's Connect!
 <a href="https://twitter.com/kiranvaidhya93" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
