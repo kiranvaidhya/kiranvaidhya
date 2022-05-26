@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🔗 Let's Connect!
 <a href="https://twitter.com/kiranvaidhya93" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?user=jIwy5iAAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kiran-vaidhya-venkadesh-2bb63aa8/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🔨 Stack 
 
