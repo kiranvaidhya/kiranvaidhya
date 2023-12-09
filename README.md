@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi there🌞I'm Kiran </h1>
+<h1 align="center">Hi there 🌞 I'm Kiran </h1>
 
+👋 I am a postdoctoral researcher at [**Radboud University Medical Center**](https://www.radboudumc.nl). I work within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and my research interests revolve around the design and development of AI algorithms in radiology. I currently work with [**Alessa Hering**](https://www.diagnijmegen.nl/people/alessa-hering/) in the [**COMFORT**](https://comfort-ai.eu/) project. 
 
-🏥I'm a PhD candidate at **[Radboud University Medical Center](https://www.radboudumc.nl)** in Nijmegen, Netherlands. I work within the **[Diagnostic Image Analysis Group (DIAG)](https://www.diagnijmegen.nl)**, and my interests revolve around the use of **deep learning algorithms for medical image analysis**.
+🧑🏽‍🎓 For my PhD research, I was supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My thesis is on AI for lung cancer screening, with a focus on early lung cancer detection from chest CT scans. In my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433), we showed that deep learning algorithms are comparable to clinical experts at predicting lung cancer risk. This story was also covered by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)**. 😊 
 
-🎓I'm supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My PhD thesis is on AI for lung cancer screening. Under the [**lung cancer image analysis group**](https://www.diagnijmegen.nl/research/lung-cancer-image-analysis/) led by Colin, we develop and validate deep learning algorithms for early detection of lung cancer from chest CT images. In my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433), we showed that deep learning algorithms are comparable to clinical experts at predicting lung cancer risk. This story was also covered by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)**. 😊 
+As part of my PhD research, I spent 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). I also volunteered as an editor for [**The Gradient**](https://www.thegradient.pub). I was responsible for outreach, and I edited articles to make sure they met the publication standards. 
 
-🔮For the next couple of years, I will be exploring ways to optimize and automate lung cancer screening with deep learning algorithms. As part of my work at DIAG, I also spend 10% of my time providing support for users of **[grand-challenge.org](https://grand-challenge.org)**. 
+🛠️ Prior to my PhD, I worked at an early-stage startup called Predible (acquired by [**nference**](https://nference.com)) for three years, where we developed deep learning algorithms for wrist x-ray, chest CT, and abdomen CT analysis.
 
-⚙️Before starting by PhD, I worked at an early-stage startup called **[Predible](https://predible.com)** for three years, where we prototyped and built production-ready deep learning algorithms for wrist x-ray, chest CT, and abdomen CT analysis. 
+💙 During my free time, I love to play outdoor sports, read books and, occasionally, stargaze.
 
 <a href="https://twitter.com/kiranvaidhya93" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kiran-vaidhya-venkadesh-2bb63aa8/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
