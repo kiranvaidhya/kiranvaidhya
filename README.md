@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 🌞 I'm Kiran </h1>
 
-👋 I am a co-founder and the CTO of [**Plain Medical**](https://www.plain-medical.com), a Dutch startup that develops AI solutions for radiology. I'm supported by the Dutch government through the [**Faculty of Impact**](https://facultyofimpact.nl/) program.
+👋 I am a co-founder and the CTO of [**Plain Medical**](https://www.plain-medical.com), a Dutch startup that develops AI solutions for radiology. We are partially supported by the Dutch government through the [**Faculty of Impact**](https://facultyofimpact.nl/) program.
 
 🧑🏽‍🎓 I completed my PhD research under the supervision of [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Alessa Hering**](https://www.diagnijmegen.nl/people/alessa-hering/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). I defended my PhD thesis on AI for lung cancer screening in May 2024. In my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433), we demonstrated that deep learning algorithms can predict lung cancer risk as effectively as clinical experts. This work was also featured by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)**. 😊 After my PhD, I briefly collaborated with Alessa Hering on the [**COMFORT**](https://comfort-ai.eu/) project.
 
@@ -24,7 +24,7 @@ During my PhD, I dedicated 10% of my time to supporting users of [**grand-challe
 
 🛠️ Before pursuing my PhD, I worked for three years at an early-stage startup called Predible (acquired by [**nference**](https://nference.com)), where we developed deep learning algorithms for analyzing wrist x-ray, chest CT, and abdomen CT images.
 
-💙 In my free time, I enjoy playing outdoor sports, reading books, and occasionally stargazing.
+💙 Outside of work, I enjoy cooking, playing sports, and occasionally stargazing.
 
 <a href="https://twitter.com/kiranvaidhya93" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kiran-vaidhya-venkadesh-2bb63aa8/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
