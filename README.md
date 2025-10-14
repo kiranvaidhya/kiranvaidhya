@@ -27,13 +27,13 @@ During my PhD, I dedicated 10% of my time to supporting users of [**grand-challe
 💙 Outside of work, I enjoy cooking, playing sports, and occasionally stargazing.
 
 <a href="https://twitter.com/kiranvaidhya93" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kiran-vaidhya-venkadesh-2bb63aa8/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kiran-vaidhya-venkadesh/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🔨 Stack 
 
-- Medical Image Analysis: `SimpleITK`, `ITK`, `VTK`
+- Medical Image Analysis: `SimpleITK`, `itk`, `vtk`
 - Computer Vision: `opencv`, `skimage`
-- Machine Learning: `(py)torch`, `tensorflow`, `torch7`, `theano`
+- Machine Learning: `pytorch`, `tensorflow`, `torch7`, `theano`
 - Data Science: `pandas`, `numpy`, `scipy`, `sklearn`
 - Visualization: `matplotlib`, `seaborn`, `vtk`
 - Demo: `streamlit`
